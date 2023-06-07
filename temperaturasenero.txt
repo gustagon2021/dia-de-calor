@@ -18,3 +18,5 @@ begin
        if(temperatura[i] > promedio)then 
          writeln('el dia ', i,'supero la media');
 end.    
+
+#puedo hacer agregados en este codigo
